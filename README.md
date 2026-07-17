@@ -2,7 +2,7 @@
 LEXSHIELD: Integrated Cybersecurity and Legal Compliance Platform for Law Firms
 LEXSHIELD PROJECT USER MANUAL
 
-# This manual explains how to set up and use the LEXSHIELD step by step.
+# This manual explains how to use the LEXSHIELD step by step.
 
 
 1. PROJECT OVERVIEW
